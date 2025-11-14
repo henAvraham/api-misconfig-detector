@@ -1,4 +1,5 @@
  API Misconfiguration Detector
+ 
 A simple Python script that checks an API endpoint for common security misconfigurations.
 📌 What this project does
 This script performs a set of basic security tests on any API URL and helps identify issues such as:
